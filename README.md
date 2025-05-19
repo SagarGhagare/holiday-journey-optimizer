@@ -16,3 +16,5 @@ mvn clean compile exec:java -Dexec.mainClass="com.panintelligence.Main"
 
 ## Sample Output
 Calculates and fills missing journey rows (8–10) using Dijkstra's algorithm for pathfinding.
+
+![img.png](img.png)
